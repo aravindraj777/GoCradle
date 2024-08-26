@@ -7,4 +7,5 @@ func main() {
 	printArray()
 	fmt.Println("----------------")
 	intArray()
+	slicesPrinting()
 }
